@@ -1,0 +1,3 @@
+This demo1 folder consists of K-Means algorthm implemented in Java.
+It takes parameters from user and writes the final result on a text file.
+This text file is used to generate Rand index, Jaccard coefficient and Principal component Analysis in python.
