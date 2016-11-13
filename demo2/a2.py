@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 22 20:24:55 2016
-
-@author: AJ
-"""
-
 
 
 
