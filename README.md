@@ -1,6 +1,4 @@
 # DataMining
 
-This is a group Project done by 
-1.Sathya Bala
-2.Ajinkya thorve
-3.Dnyanada Arjunwadkar
+This is a group Project consists of Implementation of Clustering Algorithms K-Means,DBScan and Hierarchial Algorithm.
+It has scripts that generate Principal Component Analysis, Rand Index and Jaccard Coefficient.
